@@ -76,15 +76,6 @@ Publisher: Springer Nature Singapore
 
 🔗 https://link.springer.com/book/10.1007/978-981-96-1535-3
 
-Research Highlights:
-
-- Book spine segmentation from bookshelf images
-- Canny and Sobel edge detector evaluation
-- Morphological operation enhancement
-- Hough Transform line detection
-- Region Growing segmentation
-- Automated book counting system
-
 ## 🔬 Research Areas
 
 ### Computer Vision
